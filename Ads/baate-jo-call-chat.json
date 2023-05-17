@@ -5,6 +5,15 @@
         "ShowAds": true,
         "Ads": [
 			{
+                "MonetizationId": 6,
+                "MonetizerName": "ironSource",
+                "AdAppKey": "1261eec25",
+                "BannerAdKey": "",
+                "InterstitialAdKey": "",
+                "RewardedAdKey": "",
+                "NativeAdKey": ""
+            },
+			{
                 "MonetizationId": 2,
                 "MonetizerName": "AdMob",
                 "AdAppKey": "ca-app-pub-3940256099942544~3347511713",
@@ -22,15 +31,6 @@
                 "RewardedAdKey": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
                 "NativeAdKey": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
 	    	},
-            {
-                "MonetizationId": 6,
-                "MonetizerName": "ironSource",
-                "AdAppKey": "1261eec25",
-                "BannerAdKey": "",
-                "InterstitialAdKey": "",
-                "RewardedAdKey": "",
-                "NativeAdKey": ""
-            },
 			{
 				"MonetizationId": 5,
 				"MonetizerName": "UnityAds",
